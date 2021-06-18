@@ -1,0 +1,29 @@
+{
+"ques":[
+"1. Qual nomeclatura correta para variaveis phython ?",
+"2. Qual desses operadores e usado para numeros com decimais ?", 
+"3. O resultado do codigo acima sera, x=15  y=12 ?",
+"4. Qual o valor e exibido pelo seguinte comando ? print(int(53.785)",
+"5. O que imprime o seguinte comando ? print(18/4, 18//4, 18%4)",
+"6. Qual o valor da expressao a seguir ? 16-2*5//3+1",
+"7. Depois das atribuicoes a seguir, quais sao valores de X e Y ? x = 15 y = x y = 22",
+"8. O que e impresso pelos seguintes codigos ? uma_lista = [1, 3, 5] print(uma_lista * 3)" ,
+"9. Linha 01: nome = input('Qual seu nome ?') Linha 02: print('nome')",    
+"10. O caracter # indica ?"
+
+],                                    
+
+"options":[
+    ["1. salariomedio", "2. Salariomedio", "3. Salario_medio", "4. Salariomedio"],
+    ["1. String", "2. int","3. float", "4. sqrt"],
+    ["1. false", "2. true"],
+    ["1. Nada, e produzido com um erro de execucao", "2. 53","3. 54", "4. 53.785"],
+    ["1. 4 44.5 2", "2. 4 4 4.5","3. 4.5 4 2", "4. 4.4 4.25 2"],
+    ["1. 14", "2. 24","3. 3", "4. 13.667"],
+    ["1. x=15 e y=15", "2. x=22 e y=22 ","3. x=15 e y=22","4. x=22 e y=15"],
+    ["1. 9", "2. [1,1,1,3,3,3,5,5,5]","3. [1,3,5,1,3,5,1,3,5]","4. [3,9,15]"],
+    ["1. O codigo nao ira funcionar", "2. A funcao input esta incorreta","3. O resultado do comando print e apresentar na tela o nome do usuario", "4. Falta definir o tipo da variavel nome, por isso nao ira funcionar"],
+    ["1. Comentario", "2. Classe","3. Lista", "4. String"]
+],
+"ans" : [3, 3, 1, 2, 3, 1, 4, 3, 1, 3]
+}
